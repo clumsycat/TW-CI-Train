@@ -1,0 +1,4 @@
+#specify
+language:java
+
+script: gradle test
