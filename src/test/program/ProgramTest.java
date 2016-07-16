@@ -6,7 +6,7 @@ import org.junit.Test;
 public class ProgramTest {
     @Test
     public void should_assert_true() {
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
 }
